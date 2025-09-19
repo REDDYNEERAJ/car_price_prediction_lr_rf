@@ -44,12 +44,11 @@ LIBRARIES USED
 
 HOW TO RUN
 1. Clone the repository:
+
    git clone https://github.com/yourusername/used-car-price-prediction.git
+   
+2. Run the notebook:
 
-2. Install required packages:
-   pip install -r requirements.txt
-
-3. Run the notebook:
    jupyter notebook Used_Car_Price_Prediction.ipynb
 
 RESULTS
